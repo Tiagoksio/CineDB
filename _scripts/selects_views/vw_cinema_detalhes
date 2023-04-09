@@ -1,5 +1,5 @@
 CREATE VIEW vw_cinema_detalhes AS
-SELECT 
+SELECT
 	c.nome AS 'Nome',
     c.cnpj AS 'CNPJ',
     c.email AS 'E-Mail',
