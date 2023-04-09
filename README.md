@@ -98,7 +98,8 @@ Na pasta "_scripts" estão alguns exemplos de consulta e funcionalidades do banc
 ## Links e Fontes
 
 * [Instalador MySQL](https://dev.mysql.com/downloads/installer/);
-* [Video da apresentação do projeto](https://www.youtube.com/watch?v=eMAIFIyt_ao);
 * [4Devs - Para gerar os dados](https://www.4devs.com.br/);
 * [Adoro Cinema - Para gerar os dados](https://www.adorocinema.com/filmes/numero-cinemas/);
+* [BRmodelo - Para modelagem conceitual MER](http://www.sis4.com/brModelo/download.html);
+* [Video da apresentação do projeto](https://www.youtube.com/watch?v=eMAIFIyt_ao);
 * Demais dados gerados utilizando algoritimos.
