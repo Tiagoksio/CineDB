@@ -8,4 +8,4 @@ O projeto integrador é o projeto final que engloba todo o conteúdo abordado no
 
 ## Modelagem Conceitual
 
-![Modelo Conceitual](_modelagem\modelo_conceitual.png)
+![Modelo Conceitual](/_modelagem/modelo_conceitual.png)
